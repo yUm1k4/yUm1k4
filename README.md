@@ -1,6 +1,6 @@
 <h2> Hi, I'm @yUm1k4 or u can call me Zain!</h2>
 
-<p><em>Programmer at <a href="http://bangun-kreatif.com">PT. Bangun Kreatif Abadi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Programmer at <a href="https://www.linkedin.com/company/pt-bangun-kreatif-abadi/">PT. Bangun Kreatif Abadi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: yUm1k4](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/yum1k4/)
@@ -9,7 +9,8 @@
 [![GitLab yUm1k4](https://img.shields.io/badge/GitLab-yUm1k4-blue)](https://gitlab.com/yUm1k4)
 
 
-I'm a Web Developer. Detail-oriented, data, and organized 'Web Developer' with 1+ years of experience in designing and developing dynamic web application/software. Capable of understanding client requirements and translating them into code to add new features or modifications for existing products. Adept in coordinating with testers to perform acceptance testing as well as maintain technical documents. Ability to work with the team, and have excellent problem-solving, and interpersonal skills.
+I'm a Web Developer. Detail-oriented, data, and organized 'Web Developer' with 1+ years of experience in designing and developing dynamic web application/software. Capable of understanding client requirements and translating them into code to add new features or modifications for existing products. Ade
+in coordinating with testers to perform acceptance testing as well as maintain technical documents. Ability to work with the team, and have excellent problem-solving, and interpersonal skills.
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zaiabdullah_91](https://instagram.com/zaiabdullah_91);
