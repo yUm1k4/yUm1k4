@@ -9,7 +9,7 @@
 [![GitLab yUm1k4](https://img.shields.io/badge/GitLab-yUm1k4-blue)](https://gitlab.com/yUm1k4)
 
 
-I'm a Web Developer. Detail-oriented, data, and organized 'Web Developer' with 1+ years of experience in designing and developing dynamic web application/software. Capable of understanding client requirements and translating them into code to add new features or modifications for existing products. Ability to work with the team, and have excellent problem-solving, and interpersonal skills.
+I'm a Web Developer. Detail-oriented, data, and organized 'Web Developer' with 3+ years of experience in designing and developing dynamic web application/software. Capable of understanding client requirements and translating them into code to add new features or modifications for existing products. Ability to work with the team, and have excellent problem-solving, and interpersonal skills.
 
 
 - 💬 Ask me about anything, I am happy to help;
