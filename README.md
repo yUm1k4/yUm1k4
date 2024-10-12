@@ -1,6 +1,6 @@
 <h2> Hi, I'm @yUm1k4 or u can call me Zain!</h2>
 
-<p><em>Full Stack Programmer at <a href="https://www.sevima.com/">PT. Sentra Vidya Utama (SEVIMA)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web Developer at <a href="https://www.sevima.com/">PT. Sentra Vidya Utama (SEVIMA)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: yUm1k4](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/yum1k4/)
